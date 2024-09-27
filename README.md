@@ -1,4 +1,4 @@
-# -SQL-Test-Questions
+# -SQL-Test
 SELECT AVG(grade)  AS avg_grade
 FROM Enrollments;
 
